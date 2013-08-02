@@ -24,7 +24,7 @@ body{
 }
 
 #top{
-	background: #e55b00;
+	background: #2F753A;
 	display: inline-block;
 	width: 60%;
 	float: left;
@@ -40,7 +40,7 @@ body{
 	height: 100%;	
 	float: left;
 	line-height: 100px;
-	font-size: 25px;
+	font-size: 45px;
 }
 
 #menu{
@@ -69,9 +69,9 @@ body{
 	line-height: 300px;
 	padding-left: 20%;
 	padding-right: 20%;
-	font-size: 25px;
+	font-size: 45px;
 	font-weight: bold;
-	background: #422000;
+	background: #025523;
 	display: inline-block;
 }
 
@@ -85,10 +85,10 @@ body{
 }
 
 .article .title{
-	padding-bottom: 10px;
+	padding-bottom: 20px;
 	display: inline-block;
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 45px;
 }
 
 .article .text{
@@ -96,7 +96,7 @@ body{
 }
 
 .n1{
-	background: #FFDEAD;
+	background: #68B97C;
 }
 
 .n2{
